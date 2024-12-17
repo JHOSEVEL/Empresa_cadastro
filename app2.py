@@ -1,4 +1,3 @@
-import openpyxl 
 import streamlit as st  # nesta linha o streamlit e import
 import pandas as pd
 
